@@ -1,0 +1,15 @@
+﻿
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+*.dbmdl
+*.db
+*.log
+
+node_modules/
+packages/
+
+.env
